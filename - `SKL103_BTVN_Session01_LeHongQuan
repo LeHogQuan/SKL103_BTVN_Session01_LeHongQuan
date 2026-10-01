@@ -1,0 +1,74 @@
+1. Phân tích 3 sai lầm trong phân công và tổ chức nhóm
+Sai lầm 1: Phân công phần Slide cho cả Linh và Huy cùng giữ vai trò A
+
+-Ở đầu việc thiết kế PowerPoint, Hoàng phân công Linh và Huy đều là A (Accountable). Đây là sai lầm vì theo nguyên tắc RACI, mỗi đầu việc chỉ nên có một người chịu trách nhiệm chính A.
+
+-Khi có hai người cùng là A, Linh nghĩ Huy sẽ làm còn Huy lại nghĩ Linh sẽ làm. Hai bạn không xác định rõ ai là người phải chủ động bắt đầu và hoàn thành công việc. Vì vậy, đến gần hạn nộp thì phần slide vẫn chưa được thực hiện.
+
+-Cách phân công đúng là chọn một người A, đồng thời có thể giao một người khác làm R để trực tiếp thực hiện và những thành viên còn lại giữ vai trò c , I
+
+Sai lầm 2: Hoàng ôm quá nhiều vai trò A
+
+-Hoàng vừa là nhóm trưởng vừa giữ vai trò A ở nhiều đầu việc: viết báo cáo, chuẩn bị thuyết trình và rà soát, nộp bài. Điều này khiến phần lớn trách nhiệm cuối cùng đều tập trung vào một người
+
+-Hậu quả là Hoàng bị quá tải, phải tự theo dõi và xử lý quá nhiều công việc nên dễ căng thẳng, cáu gắt và giảm hiệu quả làm việc. Đồng thời, các thành viên khác có thể hình thành tâm lý phụ thuộc vào nhóm trưởng, cho rằng Hoàng sẽ là người kiểm tra và xử lý phần cuối cùng.
+
+-Việc chia sẻ vai trò A hợp lý sẽ giúp mỗi thành viên có trách nhiệm rõ ràng hơn và giảm áp lực cho nhóm trưởn
+
+Sai lầm 3: Mai chỉ được giao vai trò I
+
+-Mai chỉ được gán vai trò I trong toàn bộ bài tập, nghĩa là chủ yếu nhận thông tin mà không có đầu việc cụ thể để trực tiếp thực hiện.
+
+-Điều này khiến Mai cảm thấy mình không đóng góp nhiều cho nhóm và dần mất kết nối với công việc chung. Khi một thành viên không có trách nhiệm cụ thể, khả năng chủ động tham gia cũng giảm.
+
+-Một nhóm làm việc hiệu quả nên tạo cơ hội để tất cả thành viên đều có ít nhất một đầu việc ở vai trò R, đồng thời tham gia góp ý hoặc nhận thông tin ở những công việc khác khi cần thiết.
+
+2. Ma trận RACI tái thiết kế
+Đầu việc	Hoàng	Huy	Linh	Mai
+1. Tìm tài liệu và ảnh minh họa linh kiện máy tính	C	A/R	I
+2. Soạn nội dung báo cáo Word	A	C	R	R
+3. Thiết kế Slide PowerPoint	C	R	A	R
+4. Soạn dàn ý bài nói và thuyết trình thử	A	C	R	R
+5. Rà soát toàn bộ và nộp file	A	C	C	R
+
+Giải thích cách phân công
+Hoàng: vẫn giữ vai trò nhóm trưởng và chịu trách nhiệm chính ở một số công việc quan trọng, nhưng không còn ôm toàn bộ chữ A.
+Huy: chịu trách nhiệm chính đối với việc tìm tài liệu, đồng thời trực tiếp tham gia thiết kế slide.
+Linh: chịu trách nhiệm chính đối với phần PowerPoint và tham gia viết nội dung báo cáo.
+Mai: được giao các phần việc trực tiếp như viết báo cáo, làm slide, chuẩn bị bài nói và rà soát bài. Nhờ đó Mai không còn bị đứng ngoài nhóm.
+Các vai trò C được dùng khi thành viên cần góp ý hoặc hỗ trợ chuyên môn.
+Vai trò I chỉ dùng khi thành viên cần được cập nhật thông tin, không thay thế cho việc giao nhiệm vụ.
+
+Lưu ý: Ở đầu việc số 5, nếu muốn bám thật chặt nguyên tắc “mỗi dòng chỉ có duy nhất một A”, thì Hoàng là A và Mai là R. Như vậy Mai trực tiếp thực hiện việc rà soát/nộp, còn Hoàng chịu trách nhiệm cuối cùng.
+
+3. Ba điều khoản TWA "chữa cháy"
+Điều khoản 1: Phản hồi tin nhắn trên Lark
+
+Khi một thành viên được tag tên trực tiếp trong nhóm Lark, thành viên đó phải phản hồi trong vòng 12 giờ. Nội dung phản hồi phải thể hiện rõ đã nhận được thông tin và tình trạng công việc, ví dụ: “Đã nhận, mình sẽ hoàn thành trước 20h ngày mai”.
+
+Việc chỉ thả tim, reaction hoặc xem tin nhắn (seen) không được tính là phản hồi. Nếu chưa thể thực hiện đúng thời hạn, thành viên phải báo lý do và thời gian dự kiến hoàn thành để nhóm chủ động điều chỉnh.
+
+Điều khoản 2: Lưu trữ và quản lý tài liệu trên Google Drive
+
+Nhóm sử dụng một thư mục Google Drive chung làm nơi lưu trữ chính thức của toàn bộ bài tập. Không sử dụng các file nằm rải rác trên máy cá nhân làm bản chính.
+
+Các file phải được đặt tên theo quy tắc:
+
+ bản đầu tiên
+ bản đã chỉnh sửa lần 2
+ bản tiếp theo
+
+Thành viên khi chỉnh sửa phải cập nhật file lên thư mục chung để các thành viên khác có thể theo dõi phiên bản mới nhất và tránh tình trạng mỗi người giữ một bản khác nhau.
+
+Điều khoản 3: Chủ động báo khi gặp khó khăn
+
+-Nếu thành viên gặp khó khăn khiến phần việc được giao có nguy cơ không hoàn thành đúng hạn, thành viên phải chủ động báo cho nhóm ít nhất 24 giờ trước deadline của phần việc.
+
+-Khi báo khó khăn, cần nois
+
+Đang gặp vấn đề gì.
+Đã hoàn thành được bao nhiêu.
+Cần thành viên nào hỗ trợ.
+Dự kiến thời gian hoàn thành.
+
+Nếu vấn đề phát sinh đột xuất không thể báo trước 24 giờ, thành viên phải thông báo cho nhóm ngay khi phát hiện vấn đề. Mục đích của quy định là để nhóm kịp hỗ trợ, không phải để đổ lỗi cho người gặp khó khă
